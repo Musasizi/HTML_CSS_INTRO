@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(58, 61, 94);
+}
+
+div {
+    border: 5px rgba(15, 214, 148, 0.9) solid;
+    color: #FFFFFF;
+    margin: 20px 10px;
+    padding: 10px;
+}
+
+h2 {
+    color: hsl(0, 37%, 53%)
+}
+
+.randomDiv {
+    background-color: rgb(217, 255, 0);
+}
+
+#section2 {
+    background-color: rgb(35, 69, 138);
+}
